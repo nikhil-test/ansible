@@ -1,2 +1,3 @@
 https://kubernetes.io/docs/tasks/run-application/delete-stateful-set/
 https://kubernetes.io/docs/tasks/run-application/force-delete-stateful-set-pod/
+https://www.bluematador.com/blog/safely-removing-pods-from-a-kubernetes-node
